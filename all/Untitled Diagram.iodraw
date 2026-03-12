@@ -50,8 +50,8 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="24" value="Yes" style="edgeStyle=orthogonalEdgeStyle;fontSize=12;" parent="1" source="6" edge="1">
-          <mxGeometry x="0.1137" y="16" relative="1" as="geometry">
-            <mxPoint x="-2" as="offset" />
+          <mxGeometry x="-0.1551" y="10" relative="1" as="geometry">
+            <mxPoint as="offset" />
             <mxPoint x="730" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
