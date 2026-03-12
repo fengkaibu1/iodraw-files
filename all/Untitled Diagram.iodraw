@@ -90,10 +90,10 @@
           <mxGeometry x="921" y="185" width="110" height="80" as="geometry" />
         </mxCell>
         <mxCell id="LPTtw99GWMD2Vsf1Q0IP-31" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="853.5" y="-42" width="45" height="310" as="geometry" />
+          <mxGeometry x="853.5" y="-26" width="45" height="310" as="geometry" />
         </mxCell>
         <mxCell id="LPTtw99GWMD2Vsf1Q0IP-32" value="Stage 2&lt;br&gt;Parameter Refinement" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="796" y="53" width="160" height="40" as="geometry" />
+          <mxGeometry x="796" y="54" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LPTtw99GWMD2Vsf1Q0IP-36" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="970" y="160" width="40" height="30" as="geometry" />
