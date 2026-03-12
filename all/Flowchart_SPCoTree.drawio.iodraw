@@ -41,7 +41,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="22" value="Periodical" style="edgeStyle=orthogonalEdgeStyle;fontSize=11;fontColor=#555555;" parent="1" edge="1">
-          <mxGeometry x="0.5" y="-35" relative="1" as="geometry">
+          <mxGeometry y="-25" relative="1" as="geometry">
             <mxPoint x="400" y="225" as="sourcePoint" />
             <mxPoint x="440" y="225" as="targetPoint" />
             <mxPoint as="offset" />
