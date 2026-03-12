@@ -86,7 +86,7 @@
           <mxGeometry x="587.5" y="-26" width="45" height="310" as="geometry" />
         </mxCell>
         <mxCell id="LPTtw99GWMD2Vsf1Q0IP-32" value="Stage 2&lt;br&gt;Parameter Refinement" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="530" y="74" width="160" height="40" as="geometry" />
+          <mxGeometry x="533" y="74" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LPTtw99GWMD2Vsf1Q0IP-36" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="704" y="160" width="40" height="30" as="geometry" />
