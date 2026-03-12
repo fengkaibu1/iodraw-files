@@ -19,7 +19,7 @@
         <mxCell id="11" value="Stage 1&#xa;Structure Learning" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="410" y="75" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="22" value="Periodic" style="edgeStyle=orthogonalEdgeStyle;fontSize=8;fontColor=#555555;" parent="1" edge="1">
+        <mxCell id="22" value="Periodic" style="edgeStyle=orthogonalEdgeStyle;fontSize=8;fontColor=#000000;" parent="1" edge="1">
           <mxGeometry y="-15" relative="1" as="geometry">
             <mxPoint x="400" y="229.5" as="sourcePoint" />
             <mxPoint x="440" y="229.5" as="targetPoint" />
