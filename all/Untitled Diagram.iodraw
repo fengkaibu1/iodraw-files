@@ -74,8 +74,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="976" y="160" />
-              <mxPoint x="800" y="160" />
-              <mxPoint x="800" y="206" />
+              <mxPoint x="806" y="160" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -87,6 +86,9 @@
         </mxCell>
         <mxCell id="LPTtw99GWMD2Vsf1Q0IP-32" value="Stage 2&lt;br&gt;Parameter Refinement" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="796" y="53" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LPTtw99GWMD2Vsf1Q0IP-36" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="845" y="168" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
