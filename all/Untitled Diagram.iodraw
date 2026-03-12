@@ -80,7 +80,10 @@
           <mxGeometry x="921" y="185" width="110" height="80" as="geometry" />
         </mxCell>
         <mxCell id="LPTtw99GWMD2Vsf1Q0IP-31" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="768.5" y="90" width="45" height="140" as="geometry" />
+          <mxGeometry x="853.5" y="5" width="45" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="LPTtw99GWMD2Vsf1Q0IP-32" value="Stage 1&#xa;Structure Learning" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="800" y="90" width="160" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
