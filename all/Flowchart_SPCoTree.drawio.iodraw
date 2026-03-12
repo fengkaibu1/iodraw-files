@@ -1,0 +1,80 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" version="24.7.17">
+  <diagram id="cO1wI1Y5xT_Z_wzJMGhA" name="Page-1">
+    <mxGraphModel dx="1042" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" value="Data Stream" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="40" y="200" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="3" value="Preprocessing" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="170" y="200" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4" value="Incremental Growth" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="300" y="200" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5" value="Restructure Pruning" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="440" y="200" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6" value="Structure Stabilize?" style="rhombus;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="580" y="185" width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7" value="Extract tree parameters &lt;i&gt;I T L M&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="730" y="200" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8" value="&lt;b&gt;Stage 2:&lt;/b&gt;&lt;br&gt;Parameter Optimization&lt;br&gt;(Gradient Descent)&lt;br&gt;for &lt;i&gt;I T L&lt;/i&gt; matrix&lt;br&gt;Under structural constraint &lt;i&gt;M&lt;/i&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;arcSize=8;" parent="1" vertex="1">
+          <mxGeometry x="880" y="175" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="9" value="Prediction (Online)" style="ellipse;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="305" y="310" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="10" value="Prediction (Online)" style="ellipse;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="885" y="330" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="11" value="Stage 1&#xa;Structure Learning" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="390" y="100" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="12" value="" style="endArrow=none;startArrow=none;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="4" target="5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="350" y="150" />
+              <mxPoint x="490" y="150" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="20" value="" style="edgeStyle=orthogonalEdgeStyle;" parent="1" source="2" target="3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="21" value="" style="edgeStyle=orthogonalEdgeStyle;" parent="1" source="3" target="4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="22" value="Periodical" style="edgeStyle=orthogonalEdgeStyle;fontSize=11;fontColor=#555555;" parent="1" source="4" target="5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="23" value="" style="edgeStyle=orthogonalEdgeStyle;" parent="1" source="5" target="6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="24" value="Yes" style="edgeStyle=orthogonalEdgeStyle;fontSize=12;" parent="1" source="6" target="7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="25" value="No" style="edgeStyle=orthogonalEdgeStyle;fontSize=12;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="6" target="4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="635" y="140" />
+              <mxPoint x="350" y="140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="26" value="" style="edgeStyle=orthogonalEdgeStyle;" parent="1" source="7" target="8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="27" value="" style="edgeStyle=orthogonalEdgeStyle;" parent="1" source="4" target="9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="28" value="" style="edgeStyle=orthogonalEdgeStyle;" parent="1" source="8" target="10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
