@@ -19,8 +19,8 @@
         <mxCell id="6" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Structure Stabilize?&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="580" y="185" width="110" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="8" value="&lt;br&gt;Parameter Optimization&lt;br&gt;Under structural constraint&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;arcSize=8;" parent="1" vertex="1">
-          <mxGeometry x="731" y="175" width="150" height="100" as="geometry" />
+        <mxCell id="8" value="Parameter Optimization&lt;br&gt;Under structural constraint&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;arcSize=8;" parent="1" vertex="1">
+          <mxGeometry x="731" y="220" width="150" height="55" as="geometry" />
         </mxCell>
         <mxCell id="9" value="Prediction (Online)" style="ellipse;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="305" y="310" width="110" height="50" as="geometry" />
