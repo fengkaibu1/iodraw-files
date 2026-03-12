@@ -20,13 +20,13 @@
           <mxGeometry x="580" y="185" width="110" height="80" as="geometry" />
         </mxCell>
         <mxCell id="8" value="&lt;b&gt;Stage 2:&lt;/b&gt;&lt;br&gt;Parameter Optimization&lt;br&gt;Under structural constraint&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;arcSize=8;" parent="1" vertex="1">
-          <mxGeometry x="880" y="175" width="150" height="100" as="geometry" />
+          <mxGeometry x="731" y="175" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="9" value="Prediction (Online)" style="ellipse;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="305" y="310" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="10" value="Prediction (Online)" style="ellipse;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="885" y="330" width="110" height="50" as="geometry" />
+          <mxGeometry x="736" y="330" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="11" value="Stage 1&#xa;Structure Learning" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="410" y="50" width="160" height="40" as="geometry" />
@@ -73,12 +73,12 @@
         </mxCell>
         <mxCell id="pdYqDcv3L2eD9XAmJntc-31" value="" style="edgeStyle=orthogonalEdgeStyle;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1029" y="225" as="sourcePoint" />
-            <mxPoint x="1069" y="225" as="targetPoint" />
+            <mxPoint x="880" y="225" as="sourcePoint" />
+            <mxPoint x="920" y="225" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pdYqDcv3L2eD9XAmJntc-32" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Structure Stabilize?&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="1070" y="185" width="110" height="80" as="geometry" />
+          <mxGeometry x="921" y="185" width="110" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
