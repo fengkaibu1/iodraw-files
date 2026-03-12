@@ -23,7 +23,7 @@
           <mxGeometry x="731" y="205.5" width="150" height="55" as="geometry" />
         </mxCell>
         <mxCell id="11" value="Stage 1&#xa;Structure Learning" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="410" y="50" width="160" height="40" as="geometry" />
+          <mxGeometry x="410" y="75" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="20" value="" style="edgeStyle=orthogonalEdgeStyle;" parent="1" source="2" target="3" edge="1">
           <mxGeometry relative="1" as="geometry" />
