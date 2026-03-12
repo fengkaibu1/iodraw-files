@@ -20,10 +20,10 @@
           <mxGeometry x="410" y="75" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="22" value="Periodic" style="edgeStyle=orthogonalEdgeStyle;fontSize=8;fontColor=#000000;" parent="1" edge="1">
-          <mxGeometry y="-15" relative="1" as="geometry">
+          <mxGeometry y="-11" relative="1" as="geometry">
             <mxPoint x="400" y="229.5" as="sourcePoint" />
             <mxPoint x="440" y="229.5" as="targetPoint" />
-            <mxPoint as="offset" />
+            <mxPoint y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="23" value="" style="edgeStyle=orthogonalEdgeStyle;" parent="1" source="5" target="6" edge="1">
